@@ -4,13 +4,13 @@
   Plays a melody
 
   circuit:
-  - See Attached
+  - See github 
 
   created 21 May 2021
 
   This code uses:
   - "Melody" by Tom Igoe http://www.arduino.cc/en/Tutorial/Tone
-  - "PU2CLR - MCP23008 Arduino Libray by Ricardo Lima Caratti https://github.com/pu2clr/MCP23008
+  - "PU2CLR - MCP23008 Arduino Library by Ricardo Lima Caratti https://github.com/pu2clr/MCP23008
   - Latching circuit adapted from https://randomnerdtutorials.com/latching-power-switch-circuit-auto-power-off-circuit-esp32-esp8266-arduino/
   - idea from https://www.thingiverse.com/thing:1604600 & https://www.thingiverse.com/thing:452651
 
